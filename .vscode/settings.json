@@ -60,5 +60,6 @@
     "BCA.C": "cpp",
     "BLE.C": "cpp",
     "DDA.C": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
